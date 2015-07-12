@@ -1,5 +1,0 @@
-first line of the file 
-second line of the file for just wasting the time
-more wasting of the time
-this is the perfect waste of the time - to add to it messing up more lines in between.  
-this can be considered completely meaning less for learning git.
