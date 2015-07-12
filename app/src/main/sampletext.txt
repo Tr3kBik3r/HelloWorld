@@ -1,5 +1,5 @@
 first line of the file 
 second line of the file for just wasting the time
 more wasting of the time
-this is the perfect waste of the time 
+this change for conflicting with br02 
 this can be considered completely meaning less for learning git.
